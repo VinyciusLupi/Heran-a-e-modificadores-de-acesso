@@ -1,0 +1,14 @@
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\bin\Debug\net8.0\TDEC#11.exe
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\bin\Debug\net8.0\TDEC#11.deps.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\bin\Debug\net8.0\TDEC#11.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\bin\Debug\net8.0\TDEC#11.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\bin\Debug\net8.0\TDEC#11.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\obj\Debug\net8.0\TDEC#11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\obj\Debug\net8.0\TDEC#11.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\obj\Debug\net8.0\TDEC#11.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\obj\Debug\net8.0\TDEC#11.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\obj\Debug\net8.0\TDEC#11.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\obj\Debug\net8.0\refint\TDEC#11.dll
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\obj\Debug\net8.0\TDEC#11.pdb
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\obj\Debug\net8.0\TDEC#11.genruntimeconfig.cache
+C:\Users\vinyl\OneDrive\Área de Trabalho\TDEC#11\obj\Debug\net8.0\ref\TDEC#11.dll
